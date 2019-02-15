@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Setup'/>
+        <page name='Quick Tour'/>
+        <page name='First Run'/>
+        <page name='Logging'/>
+        <page name='Embed Construction'/>
+        <page name='New Method'/>
+    </pages>
+</playground>
